@@ -1,0 +1,38 @@
+.p {
+    font-family: papyrus;
+}
+.miniitalics {
+    font-size: 16px;
+    font-style: italic;
+}
+.serviceopportunities {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+.seemytableauproject {
+    font-size: 16px;
+    font-style: italic;
+}
+.tabprojectlink {
+    text-decoration: underline;
+    font-weight: bold;
+}
+.skillsheadings {
+    font-weight: bold;
+    font-size: 25px;
+
+}
+.educationsubheading {
+    font-weight: bold;
+}
+.educationdescription {
+    font-family: monospace;
+     text-align: center;
+}
+.bold {
+    font-weight: bold;
+}
+.normal {
+    font-weight: 100;
+}

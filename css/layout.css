@@ -1,0 +1,38 @@
+.headerlayout{
+    top: 0px;
+    right: 15px;
+    left: 15px;
+    border: solid white;
+    height: 160px;
+    background-color: rgb(98, 134, 133);
+    fill-opacity: 100%;
+    
+
+}
+.footerlayout{
+    bottom: 10px;
+    height: 50px;
+    position: relative;
+    text-align: center bottom;
+    border: solid white;
+    z-index: 3;
+    background-color: rgb(98, 134, 133);
+   
+}
+.common{
+    position: absolute;
+    color: aliceblue;
+    border: solid aliceblue;
+}
+.rightlayout{
+     background-image: url(https://i.pinimg.com/736x/86/3f/2a/863f2a14dfeda0f76d392bdc849e8df6.jpg);
+     background-position: right;
+     /* background-color: rgb(185, 220, 248); */
+     border: solid white;
+     height: 1225px;
+     width: 200px;
+     right: 8px;
+     top: 340px;
+     position: absolute;
+     z-index: 2;
+}
